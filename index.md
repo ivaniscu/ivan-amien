@@ -1,8 +1,8 @@
-## Portofolio
+# Portofolio
 
 ---
 
-### Education
+## Education
 
 ---
 
@@ -20,7 +20,7 @@ Senior High, 2013 - 2016
 
 ---
 
-### Organizational Experience
+## Organizational Experience
 
 ---
 
@@ -36,6 +36,27 @@ Senior High, 2013 - 2016
 
 ---
 
+## Projects
+ 
+---
+
+### User Experience Designs
+
+---
+
+[Project 1 Title](/sample_page)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+ 
+---
+
+[Run Tracker](http://example.com/)
+<img src="images/runtracker_thumb.png?raw=true"/>
+ 
+---
+[Project 3 Title](http://example.com/)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+ 
+---
 
 
 
