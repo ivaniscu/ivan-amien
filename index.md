@@ -1,4 +1,8 @@
-## Education
+## Portofolio
+
+---
+
+### Education
 
 ---
 
@@ -16,7 +20,7 @@ Senior High, 2013 - 2016
 
 ---
 
-## Organizational Experience
+### Organizational Experience
 
 ---
 
@@ -29,13 +33,12 @@ Senior High, 2013 - 2016
   <li>Monitored the competition from start until finish</li>
 </ul>
 
----
-
-## Portfolio
 
 ---
 
-### Category Name 1 
+### Projects
+
+---
 
 [Project 1 Title](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
