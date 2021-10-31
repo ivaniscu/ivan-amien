@@ -50,6 +50,9 @@ Senior High, 2013 - 2016
 ---
 
 [Run Tracker](http://example.com/)
+
+This is a design I created for User Experience Final Exam. It is a run tracking app that captures the distance, time duration, and calories burned by the user. The user is able to control the music they want to listen to when they are tracking their run.
+
 <img src="images/runtracker_thumb.png?raw=true"/>
  
 ---
