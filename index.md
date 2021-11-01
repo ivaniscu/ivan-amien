@@ -40,11 +40,11 @@ Senior High, 2013 - 2016
  
 ---
 
-### User Experience Designs
+### User Experience Design
 
 ---
 
-[Rezerve]()
+[Rezerve](https://drive.google.com/drive/folders/1jJCHQbqy2HXs1q3I1z73sXyW20dC-ZDt?usp=sharing)
 
 This is a UX design I created for User Experience Final Project. Rezerve is a mobile application to reserve a restaurant. Users are able to find a restaurant they are interested in and reserve it at user-specified time. Users are also able to pre-order the menu before their visit. 
 
@@ -52,7 +52,7 @@ This is a UX design I created for User Experience Final Project. Rezerve is a mo
  
 ---
 
-[Run Tracker](http://example.com/)
+[Run Tracker](https://drive.google.com/drive/folders/1CZf-ywJO7Ul5g_NzNwztH7QVOJBWpE4a?usp=sharing)
 
 This is a UX design I created for User Experience Final Exam. It is a run tracking mobile application that captures the distance, time duration, and calories burned by the user. Users are able to control the music they want to listen to when they are tracking their run.
 
@@ -60,7 +60,7 @@ This is a UX design I created for User Experience Final Exam. It is a run tracki
  
 ---
 
-[Krealogi](http://example.com/)
+[Krealogi](https://drive.google.com/drive/folders/1O7x1QKI171z8axa65TB6pNo1fjMnBcoG?usp=sharing)
 
 This is a web UX design I created for Proto-a-thon UX competition. Krealogi is a platform by Du Anyam to empower local artisans in remote areas within Indonesia by giving assistance in digitlizing their business. It also provides various learning experience to local artisans. The goal of the UX competition is to provide the best learning experiences as by creating a web-based learning management system.
 
@@ -68,6 +68,35 @@ This is a web UX design I created for Proto-a-thon UX competition. Krealogi is a
  
 ---
 
+### Information Systems Analysis & Design
+
+---
+
+[Information System of Kindness](/pdf/Kindness.pdf)
+
+This is a group project I took part in. My task was to assign the team members with specific tasks, create Activity Diagram, Sequence Diagrams, & Communication Diagrams, evaluate the project, and create the project documentation. The case study used in the project was "Kindness", a charity platform. The goal of the project was to create the information system of the platform.
+
+<img src="images/aisad_diagrams.png?raw=true"/>
+
+### Mobile Application Development
+
+---
+
+[Ristorante](https://drive.google.com/drive/folders/1zOvpUY2quSqzGTjoMgiAy818SBkaE3uO?usp=sharing)
+
+This is a mobile application I developed for the final project of Mobile Application Development course. Ristorante is a mobile application to reserve a restaurant. This project was developed using Android Studio with SQLite, Google Maps API, and JSON implemented. 
+
+<img src="images/ristorante_thumb.png?raw=true"/>
+ 
+---
+
+[Health2Go](https://drive.google.com/drive/folders/15-BgiyBX-7Xj6hVdhC59F2Wu-JEIcryl?usp=sharing)
+
+This is a mobile application I developed for the final exam of Mobile Application Development course. Health2Go is a mobile application to find hospitals, book an appointment, and consult with doctors via chat. Users are also able to book vaccination events through the application.
+
+<img src="images/health2go_thumb.png?raw=true"/>
+ 
+---
 
 
 
