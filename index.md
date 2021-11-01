@@ -78,6 +78,8 @@ This is a group project I took part in. My task was to assign the team members w
 
 <img src="images/aisad_diagrams.png?raw=true"/>
 
+---
+
 ### Mobile Application Development
 
 ---
