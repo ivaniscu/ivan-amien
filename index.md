@@ -44,7 +44,7 @@ Senior High, 2013 - 2016
 
 ---
 
-[Rezerve](https://drive.google.com/drive/folders/1jJCHQbqy2HXs1q3I1z73sXyW20dC-ZDt?usp=sharing)
+[Rezerve](https://6ewavz.axshare.com/)
 
 This is a UX design I created for User Experience Final Project. Rezerve is a mobile application to reserve a restaurant. Users are able to find a restaurant they are interested in and reserve it at user-specified time. Users are also able to pre-order the menu before their visit. 
 
@@ -52,7 +52,7 @@ This is a UX design I created for User Experience Final Project. Rezerve is a mo
  
 ---
 
-[Run Tracker](https://drive.google.com/drive/folders/1CZf-ywJO7Ul5g_NzNwztH7QVOJBWpE4a?usp=sharing)
+[Run Tracker](https://oeg8ok.axshare.com/)
 
 This is a UX design I created for User Experience Final Exam. It is a run tracking mobile application that captures the distance, time duration, and calories burned by the user. Users are able to control the music they want to listen to when they are tracking their run.
 
@@ -60,7 +60,7 @@ This is a UX design I created for User Experience Final Exam. It is a run tracki
  
 ---
 
-[Krealogi](https://drive.google.com/drive/folders/1O7x1QKI171z8axa65TB6pNo1fjMnBcoG?usp=sharing)
+[Krealogi](https://1umd3t.axshare.com/)
 
 This is a web UX design I created for Proto-a-thon UX competition. Krealogi is a platform by Du Anyam to empower local artisans in remote areas within Indonesia by giving assistance in digitlizing their business. It also provides various learning experience to local artisans. The goal of the UX competition is to provide the best learning experiences as by creating a web-based learning management system.
 
